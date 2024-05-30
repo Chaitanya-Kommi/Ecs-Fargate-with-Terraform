@@ -1,21 +1,21 @@
 variable "access_key" {
-  default = "AKIAZQ3DSHLVMAYAK2GP"
+  default = ""
 }
 variable "secret_key" {
-  default = "19WHZo7H8+itVk3ejbpQycWdUZif2Nq0FGSgUwk0"
+  default = ""
 }
 variable "region" {
   default = "ap-south-1"
 }
 variable "subnet1" {
-  default = "subnet-047f32c2e1fdf1464"
+  default = ""
 }
 variable "subnet2" {
-  default = "subnet-0b2906fdc78e3b333"  
+  default = ""  
 }
 variable "sg" {
-  default = "sg-0e21b8979ce319927"
+  default = ""
 }
 variable "vpc" {
-  default = "vpc-0d0a4226eadd0a8c5"
+  default = ""
 }
