@@ -1,4 +1,4 @@
-variable "access_key" {
+/*variable "access_key" {
   default = ""
 }
 variable "secret_key" {
@@ -18,4 +18,4 @@ variable "sg" {
 }
 variable "vpc" {
   default = ""
-}
+}*/
